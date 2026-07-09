@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs for 4+ years now<br>📚 I'm currently learning Jetpack Compose and AI<br>🎯 Goals: Contribute to Open Source Projects and Lead Innovative ones<br>🎲 Fun fact: I'm a walking human encyclopedia with terabytes of random knowledge up my brain</p>
+<p align="left">
+📱 Senior Software Engineer specialising in Native Android (Kotlin), iOS (Swift/SwiftUI), and Full-Stack Web Development.<br>
+🏦 Building secure, scalable, and customer-centric digital products within enterprise financial systems.<br>
+🚀 Passionate about clean architecture, performance optimisation, and crafting intuitive user experiences.<br>
+🌱 Currently exploring AI applications, modern mobile architectures, and scalable system design.<br>
+🤝 Enjoy mentoring engineers, contributing to engineering culture, and collaborating on impactful products.<br>
+🎯 Goal: Build technology that solves real-world problems while continuously learning and sharing knowledge.
+</p>
 
 ###
 
